@@ -338,7 +338,7 @@
 
                                     <div class="wprt-toggle active style-1">
                                         <h3 class="toggle-title">Kinh Nghiệm & Uy Tín</h3>
-                                        <div class="toggle-content">Hơn 40 năm trong ngành xây dựng, luôn đặt chất lượng lên hàng đầu. Hàng trăm công trình đã hoàn thành với sự hài lòng của khách hàng.</div>
+                                        <div class="toggle-content">Hơn 15 năm trong ngành xây dựng, luôn đặt chất lượng lên hàng đầu. Hàng trăm công trình đã hoàn thành với sự hài lòng của khách hàng.</div>
                                     </div>
 
                                     <div class="wprt-toggle style-1">
