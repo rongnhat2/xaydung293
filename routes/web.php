@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'DisplayController@index')->name('customer.index');
 Route::get('/dich-vu', 'DisplayController@services')->name('customer.services');
+Route::get('/sitemap.xml', 'Customer\DisplayController@sitemap')->name('customer.index');
