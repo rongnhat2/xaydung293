@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://xaydung293.com/sitemap.xml
