@@ -155,7 +155,7 @@
                     <ul class="style-2">
                         <li class="address clearfix">
                             <span class="hl">Địa chỉ:</span>
-                            <span class="text">Văn Phòng Đại Diện: Kiot 62-64 chợ mới Yên Mỹ Hưng Yênv</span>
+                            <span class="text">Văn Phòng Đại Diện: Kiot 62-64 chợ mới Yên Mỹ Hưng Yên</span>
                         </li>
                         <li class="phone clearfix">
                             <span class="hl">Điện thoại:</span> 
